@@ -9,7 +9,7 @@
 - 🌱 Estudando Linguagem de Marcação 
 - 👯 Sou ela
 - 📫 Como entrar em contato comigo: gabrielaeusa@gmail.com
-- ⚡ Curiosidade: Amo filmes de terror, suspense e ação.
+- ⚡ Curiosidade: Amo filmes de terror, desenhos e músicas.
 -->
 
 ### Estou aprendendo
