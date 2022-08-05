@@ -10,7 +10,7 @@
 - 🌱 Estudando Linguagem de Marcação e Programação. 
 - 👯 Sou ela
 - 📫 Como entrar em contato comigo: gabrielaeusa@gmail.com
-- ⚡ Curiosidade: Amo filmes de terror, desenhos e músicas.
+- ⚡ Curiosidade: Amo filmes de terror, desenhos e músicas (viciada em cremes e perfumes).
 -->
 
 <div style="display:flex; " align="center">
