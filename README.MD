@@ -7,7 +7,7 @@
 </p>
 
 - 🔭 Atualmente sou estágiaria
-- 🌱 Estudando Linguagem de Marcação 
+- 🌱 Estudando Linguagem de Marcação e Programação. 
 - 👯 Sou ela
 - 📫 Como entrar em contato comigo: gabrielaeusa@gmail.com
 - ⚡ Curiosidade: Amo filmes de terror, desenhos e músicas.
