@@ -7,7 +7,7 @@
 </p>
 
 - 🔭 Desenvolvedora Web
-- 🌱 Javascript
+- 🌱 Sempre em busca de novos aprendizados
 - 👯 Sou ela
 - 📫 Como entrar em contato comigo: gabrielaeusa@gmail.com
 - ⚡ Curiosidades: Amo filmes de terror, desenhos e músicas (viciada em cremes e perfumes).
