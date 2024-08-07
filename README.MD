@@ -6,8 +6,8 @@
   <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=F72EE2&size=25&lines=Bem+-+vindo+a+minha+página" /></a>
 </p>
 
-- 🔭 Atualmente sou estudante
-- 🌱 Linguagem de Marcação e Programação. 
+- 🔭 Desenvolcedora Web
+- 🌱 Javascript
 - 👯 Sou ela
 - 📫 Como entrar em contato comigo: gabrielaeusa@gmail.com
 - ⚡ Curiosidades: Amo filmes de terror, desenhos e músicas (viciada em cremes e perfumes).
