@@ -10,6 +10,7 @@
 - 🌱 Sempre em busca de novos aprendizados
 - 👯 Sou ela
 - 📫 Como entrar em contato comigo: gabrielaeusa@gmail.com
+- 🌐 Site: https://novaestrategiagr.com.br
 - ⚡ Curiosidades: Amo filmes de terror, desenhos e músicas (viciada em cremes e perfumes).
 -->
 
