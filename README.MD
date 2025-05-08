@@ -30,7 +30,7 @@
 
   <a href="https://www.linkedin.com/in/gabrielafcustodio/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
+  ![Snake](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDhyb2UwMG00dTJtY2RlZHVqY2VtY2J6cjB0Nmx6dHh1eGdydWZ5biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT5LMHxhOfscxPfIfm/giphy.gif)
  
 </div>
   
