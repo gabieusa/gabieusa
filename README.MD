@@ -29,9 +29,11 @@
   
   <div style="display:flex; " align="center">
 
+  <p align="center">
   <a href="https://www.linkedin.com/in/gabrielafcustodio/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a> 
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+</p>
  
   ![Snake](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDhyb2UwMG00dTJtY2RlZHVqY2VtY2J6cjB0Nmx6dHh1eGdydWZ5biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT5LMHxhOfscxPfIfm/giphy.gif)
  
