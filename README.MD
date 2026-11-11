@@ -26,11 +26,6 @@
 </p>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabieusa&layout=compact&langs_count=7&theme=dracula"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabieusa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
-
-<div align="center">
   <p>
     <a href="https://www.linkedin.com/in/gabrielafcustodio/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
