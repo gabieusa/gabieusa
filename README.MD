@@ -19,25 +19,25 @@
   
 ### Estou aprendendo
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg"  width="40" height="40"/><img src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg"  width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
-  </div>
-
-<div style="display:flex; " align="center">
-<a href="https://github.com/gabieusa">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabieusa&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabieusa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
-  
-  <div style="display:flex; " align="center">
-
-  <p align="center">
-  <a href="https://www.linkedin.com/in/gabrielafcustodio/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" alt="LinkedIn">
-</a>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="40" height="40" alt="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="40" height="40" alt="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
 </p>
- 
-  ![Snake](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDhyb2UwMG00dTJtY2RlZHVqY2VtY2J6cjB0Nmx6dHh1eGdydWZ5biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT5LMHxhOfscxPfIfm/giphy.gif)
- 
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabieusa&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabieusa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+
+<div align="center">
+  <p>
+    <a href="https://www.linkedin.com/in/gabrielafcustodio/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    </a>
+  </p>
+  
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDhyb2UwMG00dTJtY2RlZHVqY2VtY2J6cjB0Nmx6dHh1eGdydWZ5biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT5LMHxhOfscxPfIfm/giphy.gif" alt="Snake animation"/>
 </div>
   
 
