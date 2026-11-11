@@ -11,6 +11,7 @@
 - 👯 Sou ela
 - 📫 Como entrar em contato comigo: gabrielaeusa@gmail.com
 - 🌐 Site: https://novaestrategiagr.com.br
+- Pessoal: https://site-gabriela.onrender.com/
 - ⚡ Curiosidades: Amo filmes de terror, desenhos e músicas (viciada em perfumes).
 -->
 
